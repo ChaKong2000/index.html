@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital@1&display=swap');
+
+p {
+    font-family: "Rubik";
+}
+
+* {
+    background-color: rgb(235, 152, 165);
+}
+
+.img1 {
+    width: 250px;
+}
